@@ -1,0 +1,6 @@
+﻿CREATE TABLE vehicleEntries(
+	entryID INT NOT NULL IDENTITY(1, 1),
+	licensePlateText VARCHAR(8) NOT NULL,
+	time DATETIME NOT NULL,
+	PRIMARY KEY(entryID)
+)
