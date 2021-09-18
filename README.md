@@ -10,7 +10,9 @@ A Windows program simulating a camera recognizing license plates of vehicles at 
 
 ## Interfejs | Interface
 
-![Interface](https://user-images.githubusercontent.com/23143311/133908566-23fcdc1c-3fcc-4a1a-89e9-f4ee67afcda0.png)
+![Interface 1](https://user-images.githubusercontent.com/23143311/133908566-23fcdc1c-3fcc-4a1a-89e9-f4ee67afcda0.png)
+
+![Interface 2](https://user-images.githubusercontent.com/23143311/133910898-d59c315f-1490-464a-8712-3c7907d3a225.png)
 
 ## Symulacja | Simulation
 
